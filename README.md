@@ -80,10 +80,14 @@
 <br/>  
 
 <div align="center">
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mario-bolanos-sumup&show_icons=true&theme=dark&locale=en" alt="mario-bolanos-sumup" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mario-bolanos-sumup&show_icons=true&theme=dark&locale=en&hide_border=false&include_all_commits=true&count_private=true" alt="mario-bolanos-sumup" /></p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mario-bolanos-sumup&theme=dark" alt="mario-bolanos-sumup" /></p>
 </div>
 <br/>
+
+<p align="center">
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+</p>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mario-bolanos-sumup&&style=flat-square" align="center" />

@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on iOS development projects  
   
 
-- ❓ Ask me about anything related to Swift, React, React Native and outside programming -> CARS  
+- ❓ Ask me about anything related to Mobile Development, Cars, Hiking, Traveling...
   
 
 - ⚡ Fun fact: I have 17 tattoos  

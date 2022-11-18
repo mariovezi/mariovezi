@@ -47,6 +47,7 @@
 <a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://francesinhajs.com" target="_blank"><img style="margin: 10px" src="https://img.itinari.com/pages/images/original/b722ce04-ff8f-424e-a56a-a184517b3ca6-istock-879172542.jpg?ch=DPR&dpr=2.625&w=1600&s=dc69f3e211339d1b30f2587e54a67384" alt="Francesinha JS (?)" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">

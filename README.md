@@ -1,7 +1,7 @@
 ### <div align="center">I'm Mario, a Software Engineer 👨‍💻 passionate about mobile development</div>  
   
 
-- 🔭 I’m currently working on iOS development projects  
+- 🔭 I’m currently working on React Native development projects  
   
 
 - ❓ Ask me about anything related to Mobile Development, Cars, Hiking, Traveling...
